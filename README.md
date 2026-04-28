@@ -1,35 +1,74 @@
-<h1 align="center">Hi 👋, I'm Roshan</h1>
-<h3 align="center">Frontend/Backend Developer | React Enthusiast 🚀</h3>
+<h1 align="center">Roshan Khatri</h1>
+<h3 align="center">Full Stack Developer | React | Node.js | Problem Solver</h3>
 
----
-
-### 👨‍💻 About Me
-- 🌱 I’m learning **React, Node.js**
-- 💻 Working on **Smart Home & Web Projects**
-- 📫 Reach me: roshankhatri2063@gmail.com
-
----
-
-### 🚀 Tech Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,node,git,github" />
+<p align="center">
+  <a href="#">Portfolio</a> •
+  <a href="www.linkedin.com/in/roshan-khatri-645172396">LinkedIn</a> •
+  <a href="roshankhatri2063@gmail.com">Email</a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
-![Roshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roshan-khatri2063&show_icons=true&theme=tokyonight)
+## 👨‍💻 About Me
+
+I am a passionate developer focused on building modern web applications and smart systems.  
+I enjoy turning ideas into real-world solutions using clean and efficient code.
+
+- 🌱 Learning: **Advanced React & Backend Development**
+- 💡 Interests: **IoT, Web Apps, Automation**
+- 🎯 Goal: Become a **professional full-stack developer**
 
 ---
 
-### 🔥 Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=Roshan-khatri2063&theme=tokyonight)
+## 🛠 Tech Stack
 
----
-
-### 🌐 Connect with me
+### Frontend
 <p>
-  <a href="#">LinkedIn</a> |
-  <a href="#">Portfolio</a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
-<img width="426" height="426" alt="github" src="https://github.com/user-attachments/assets/59977bc7-ec2d-4529-af9b-2c23a1bd6e72" />
+
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Tools & Others
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Roshan-khatri2063&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Roshan-khatri2063&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Roshan-khatri2063&theme=tokyo-night" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="www.linkedin.com/in/roshan-khatri-645172396">LinkedIN</a> |
+  <a href="#">Portfolio</a> |
+  <a href="roshankhatri2063@gmail.com">Email</a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+I love building real-world projects that solve practical problems 🚀
