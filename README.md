@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Roshan</h1>
-<h3 align="center">Frontend Developer | React Enthusiast 🚀</h3>
+<h3 align="center">Frontend/Backend Developer | React Enthusiast 🚀</h3>
 
 ---
 
 ### 👨‍💻 About Me
 - 🌱 I’m learning **React, Node.js**
 - 💻 Working on **Smart Home & Web Projects**
-- 📫 Reach me: your-email@gmail.com
+- 📫 Reach me: roshankhatri2063@gmail.com
 
 ---
 
